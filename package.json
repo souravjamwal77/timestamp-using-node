@@ -1,0 +1,30 @@
+{
+  "name": "timestamp-using-node",
+  "version": "0.1.0",
+  "description": "A timestamp server which gives time in UTC for input in milliseconds.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "cors": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souravjamwal77/timestamp-using-node.git"
+  },
+  "keywords": [
+    "time",
+    "stamp",
+    "server",
+    "time-stamp"
+  ],
+  "author": "Sourav Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souravjamwal77/timestamp-using-node/issues"
+  },
+  "homepage": "https://github.com/souravjamwal77/timestamp-using-node#readme"
+}
